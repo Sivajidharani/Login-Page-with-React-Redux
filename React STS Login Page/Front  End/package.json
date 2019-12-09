@@ -1,0 +1,49 @@
+{
+  "name": "login-login",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/styles": "^4.6.0",
+    "@mscharley/bs-material-ui-icons": "^1.0.1",
+    "@svelte-material-ui/top-app-bar": "^1.0.0-beta.10",
+    "antd": "latest",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "material-ui": "^0.20.2",
+    "mdbreact": "^4.22.1",
+    "react": "next",
+    "react-bootstrap": "^1.0.0-beta.15",
+    "react-dom": "next",
+    "react-redux": "^7.1.3",
+    "react-router-dom": "^5.1.2",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "3.2.0",
+    "react-tap-event-plugin": "^3.0.3",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "table": "^5.4.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
